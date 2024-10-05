@@ -1,0 +1,5 @@
+﻿  project6(ATM).cpp
+D:\vs projects\project6(ATM)\project6(ATM)\project6(ATM).cpp(78,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\vs projects\project6(ATM)\project6(ATM)\project6(ATM).cpp(93,15): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\vs projects\project6(ATM)\project6(ATM)\project6(ATM).cpp(191,25): warning C4390: ';': empty controlled statement found; is this the intent?
+  project6(ATM).vcxproj -> D:\vs projects\project6(ATM)\x64\Debug\project6(ATM).exe
