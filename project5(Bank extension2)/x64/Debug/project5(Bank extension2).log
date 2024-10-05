@@ -1,0 +1,4 @@
+﻿  project5(Bank extension2).cpp
+D:\vs projects\project5(Bank extension2)\project5(Bank extension2)\project5(Bank extension2).cpp(295,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\vs projects\project5(Bank extension2)\project5(Bank extension2)\project5(Bank extension2).cpp(306,20): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  project5(Bank extension2).vcxproj -> D:\vs projects\project5(Bank extension2)\x64\Debug\project5(Bank extension2).exe
